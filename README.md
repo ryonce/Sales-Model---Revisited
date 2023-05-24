@@ -4,4 +4,4 @@
 
 
 
-![](DecTree.png)
+![](Dec Tree.png)
