@@ -12,7 +12,7 @@ Top 3 Coefficients:
 - Outlet_Size_Med: That for every time the product is in Med Outlet Size, the value shown will increase the Item Outlet Sale.
 
 
-![](Dec Tree.png)
+![](DecTree.png)
 
 Top 5 Features:
 
