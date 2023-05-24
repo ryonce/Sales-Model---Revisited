@@ -13,3 +13,11 @@ Top 3 Coefficients:
 
 
 ![](Dec Tree.png)
+
+Top 5 Features:
+
+- Item MRP
+- Outlet Type Grocery Store
+- Item Visibility
+- Outlet Type Supermarket Type3
+- Item Weight
