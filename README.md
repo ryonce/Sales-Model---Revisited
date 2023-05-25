@@ -28,6 +28,22 @@ Top 5 Features:
 
 ## SHAP Graph - Bar
 
-![](Shap Graph.png)
+![](ShapGraph.png)
+
+- Comparsion vs Features Graph
+
+    - The top 4 are all the same with just Item Visibility and Supermarket Type 3 switching places.
+    
+    - After that, it varies quite a bit with each one bringing different features for the last 6 spots
 
 ## SHAP Graph - Dot
+
+![](ShapDot.png)
+
+- Top 3 Features
+
+    - Item MRP: This shows that a higher MRP will increase our target.
+    
+    - Outlet Type Grocery Store: This shows that being classified as a Grocery Store decrease our target.
+    
+    - Outlet Type Supermarket Type3: This shows that being classified as a Supermarket Type3 increase our target.
