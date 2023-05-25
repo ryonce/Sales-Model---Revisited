@@ -1,5 +1,8 @@
 # Sales Model - Revisited
- 
+
+
+## Coefficients Graph
+
 ![](Coeffs.png)
 
 Top 3 Coefficients:
@@ -11,6 +14,7 @@ Top 3 Coefficients:
 
 - Outlet_Size_Med: That for every time the product is in Med Outlet Size, the value shown will increase the Item Outlet Sale.
 
+## Features Graph
 
 ![](DecTree.png)
 
@@ -21,3 +25,9 @@ Top 5 Features:
 - Item Visibility
 - Outlet Type Supermarket Type3
 - Item Weight
+
+## SHAP Graph - Bar
+
+![](Shap Graph.png)
+
+## SHAP Graph - Dot
