@@ -47,3 +47,10 @@ Top 5 Features:
     - Outlet Type Grocery Store: This shows that being classified as a Grocery Store decrease our target.
     
     - Outlet Type Supermarket Type3: This shows that being classified as a Supermarket Type3 increase our target.
+
+
+## Local Explanations
+
+    - The first example I chose was with being classified at a Grocery Story with a MRP above the 75% while
+    
+![](LIME Example 1.png)
