@@ -51,6 +51,33 @@ Top 5 Features:
 
 ## Local Explanations
 
-    - The first example I chose was with being classified at a Grocery Story with a MRP above the 75% while
+### The first example I chose was with being classified at a Grocery Story with a MRP above the 75%.
     
-![](LIME Example 1.png)
+![](LIME1.png)
+    
+    - The Grocery Outlet Type and Supermarket Type3 had a negative impact on the total price.
+    
+    - The Item MRP has a positive impact on the total price. 
+
+
+![](SHAP1.png)
+
+    - The Item MRP and Item Visibility are two of the bigger positive impacts on the total price and pushing it higher.
+
+    - The Supermarket Type3 had a negative impact on the total price and pushing it lower. 
+    
+    
+### The second example I chose was with not being classified at a Grocery Story with a MRP above the 75%.
+
+![](LIME2.png)
+
+    - The Grocery Outlet Type and Item MRP have a positive impact on the total price. 
+
+    - The Supermarket Type3 has a negative impact on the total price. 
+
+
+![](SHAP2.png)
+
+    - The Item MRP and Outlet Size Small are two of the bigger positive impacts on the total price and pushing it higher.
+
+    - The Grocery Store had a negative impact on the total price and pushing it lower. 
